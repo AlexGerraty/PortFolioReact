@@ -1,0 +1,35 @@
+.resume {
+    display: flex;
+    margin-top: 3%;
+    width: 100%;
+    height:50vh;
+    background-color: aqua;
+    padding: 1rem;
+    margin-top: -50px;
+}
+
+.resume h2{
+    font-size: 60px;
+    padding: 2rem
+}
+
+.resume ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+}
+
+.resume li {
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.resume a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    margin-left:-750px;
+    font-size: 35px;
+}

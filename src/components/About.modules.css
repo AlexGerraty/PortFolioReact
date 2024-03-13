@@ -1,0 +1,21 @@
+.about {
+    display: flex;
+    padding: 10px;
+}
+
+.avatar {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+} 
+
+.description {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}

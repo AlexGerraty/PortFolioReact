@@ -1,0 +1,23 @@
+.portfolio {
+  display: flex;
+  height: 50vh;
+  padding-bottom: 20px;
+  background-color: grey;
+}
+
+.portfolio h2 {
+  font-size: 60px;
+  align-items: center;
+  margin-left: 2rem;
+}
+
+.portfolio li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    margin: 0 auto;
+    width: 70%;
+    margin-bottom: 20px;
+  }
+
