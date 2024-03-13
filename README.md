@@ -1,4 +1,4 @@
-# Persona Website
+# My Personal Wesbite 
 
 This is a persona website created using React. It showcases the personality, skills, and projects of the individual.
 
