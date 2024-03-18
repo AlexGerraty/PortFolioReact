@@ -32,3 +32,11 @@ Create a new branch for your feature or bugfix.
 Commit your changes to the new branch.
 Push the new branch to your fork.
 Create a pull request from your fork to the main repository.
+
+
+[Visit my website!](https://candid-genie-de56da.netlify.app)
+
+## Screenshot
+![Screenshot of my website](/WeatherScreenshot.png)
+
+
